@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "off",
+    "workbench.colorTheme": "Cobalt Next",
+    "terminal.integrated.inheritEnv": false,
+    "python.languageServer": "Microsoft",
+    "json.maxItemsComputed": 10000,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
